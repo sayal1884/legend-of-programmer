@@ -1,0 +1,24 @@
+AIDE :
+le jeu consiste à tester vos connaissances en informatique. principalement en Python.
+le jeu oppose 2 joueurs, chacun repondant aux questions qui lui sont posées par la machine.
+si vous trouvez, la machine vous indique le nombre de cases dont vous devez vous deplacez en
+utilisant vos touches de directions. chaque bonne reponses vous ajoute 2 points.
+
+JOUEURS : 
+le joueur 1 est la fille en bleu, le joueur 2 est la fille en noir. demarrez le jeu en 
+appuyant sur votre BOUTON ROUGE avec la souris pour recevoir la question. choisissez la réponse
+et enfin valider pour attendre le verdicte de la machine. 
+
+le BUT : 
+il s'agit de remporter le tresor protéger par les lions et le tigre. pour entrer dans ce chemin 
+jaune (chemin royal), vous devez avoir minimun 32 points
+
+COMBOS : 
+	le CRISTAL VERT vous donne des points supplementaires pour rapidement atteindre 32 points
+	l'AVION vous ajoute des mouvements pour vous deplacer plus rapidement
+
+TOUCHES :
+	joueur 1 : Z, S, Q, D pour se deplacer
+	joueur 2 : Up, Down, Left, Right pour se deplacer
+
+Bonne chance
